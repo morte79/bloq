@@ -1,0 +1,17 @@
+carousel:
+img-1
+Photo by Thao Le Hoang on Unsplash
+img-2
+Photo by Thao Le Hoang on Unsplash
+img-3
+Photo by Mats Sommervold on Unsplash
+
+Card:
+img-4
+Photo by Thao Le Hoang on Unsplash
+img-5
+Photo by Thao Le Hoang on Unsplash
+img-6
+Photo by Leslie Jones on Unsplash
+img7
+Photo by Thao Le Hoang on Unsplash
